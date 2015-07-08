@@ -506,14 +506,14 @@ h6 {
     margin-left: 0;
   }
   .col-1_12 {
-    width: 8.333333333333334%;
+    width: 8.33333333%;
     border-left-width: 5px;
     border-right-width: 5px;
     padding: 0 0px;
     margin-left: 0;
   }
   .col-1_6 {
-    width: 16.666666666666668%;
+    width: 16.66666667%;
     border-left-width: 5px;
     border-right-width: 5px;
     padding: 0 0px;
@@ -527,14 +527,14 @@ h6 {
     margin-left: 0;
   }
   .col-1_3 {
-    width: 33.333333333333336%;
+    width: 33.33333333%;
     border-left-width: 5px;
     border-right-width: 5px;
     padding: 0 0px;
     margin-left: 0;
   }
   .col-5_12 {
-    width: 41.66666666666667%;
+    width: 41.66666667%;
     border-left-width: 5px;
     border-right-width: 5px;
     padding: 0 0px;
@@ -548,14 +548,14 @@ h6 {
     margin-left: 0;
   }
   .col-7_12 {
-    width: 58.333333333333336%;
+    width: 58.33333333%;
     border-left-width: 5px;
     border-right-width: 5px;
     padding: 0 0px;
     margin-left: 0;
   }
   .col-2_3 {
-    width: 66.66666666666667%;
+    width: 66.66666667%;
     border-left-width: 5px;
     border-right-width: 5px;
     padding: 0 0px;
@@ -569,14 +569,14 @@ h6 {
     margin-left: 0;
   }
   .col-5_6 {
-    width: 83.33333333333334%;
+    width: 83.33333333%;
     border-left-width: 5px;
     border-right-width: 5px;
     padding: 0 0px;
     margin-left: 0;
   }
   .col-11_12 {
-    width: 91.66666666666667%;
+    width: 91.66666667%;
     border-left-width: 5px;
     border-right-width: 5px;
     padding: 0 0px;
@@ -710,6 +710,12 @@ body {
   font-family: 'Montserrat', sans-serif; font-weight: 400;
   background-color: #ffffff;
   color: #464342;
+}
+select,
+input,
+textarea,
+button {
+  font-family: 'Montserrat', sans-serif; font-weight: 400;
 }
 .container {
   margin: 0 auto;
