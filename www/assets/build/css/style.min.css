@@ -769,7 +769,7 @@ a:hover {
   top: 90px;
   left: 0;
   z-index: 9000;
-  transition: top .4s;
+  transition: top .4s, opacity .3s;
 }
 .banner.is-scrolled {
   top: 0;
@@ -1357,9 +1357,9 @@ a:hover {
   }
   a,
   a:visited {
-    color: #444 !important;
+/*    color: #444 !important;
     text-decoration: underline;
-  }
+*/  }
   a[href]:after {
     content: " (" attr(href) ")";
   }
